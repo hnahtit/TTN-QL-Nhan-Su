@@ -16,3 +16,13 @@ C:\Users\Duy\Source\Repos\baitapnhom\quanlynhansu\quanlynhansu\obj\Debug\quanlyn
 C:\Users\Duy\Source\Repos\baitapnhom\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.csprojResolveAssemblyReference.cache
 =======
 >>>>>>> a1a3373379a018463430d61d0e2b522a04777342
+C:\Users\Duy\Source\Repos\TTN-QL-Nhan-Su\Bai_1\quanlynhansu\bin\Debug\quanlynhansu.exe.config
+C:\Users\Duy\Source\Repos\TTN-QL-Nhan-Su\Bai_1\quanlynhansu\bin\Debug\quanlynhansu.exe
+C:\Users\Duy\Source\Repos\TTN-QL-Nhan-Su\Bai_1\quanlynhansu\bin\Debug\quanlynhansu.pdb
+C:\Users\Duy\Source\Repos\TTN-QL-Nhan-Su\Bai_1\quanlynhansu\obj\Debug\quanlynhansu.csprojResolveAssemblyReference.cache
+C:\Users\Duy\Source\Repos\TTN-QL-Nhan-Su\Bai_1\quanlynhansu\obj\Debug\quanlynhansu.f1.resources
+C:\Users\Duy\Source\Repos\TTN-QL-Nhan-Su\Bai_1\quanlynhansu\obj\Debug\quanlynhansu.Main.resources
+C:\Users\Duy\Source\Repos\TTN-QL-Nhan-Su\Bai_1\quanlynhansu\obj\Debug\quanlynhansu.Properties.Resources.resources
+C:\Users\Duy\Source\Repos\TTN-QL-Nhan-Su\Bai_1\quanlynhansu\obj\Debug\quanlynhansu.csproj.GenerateResource.Cache
+C:\Users\Duy\Source\Repos\TTN-QL-Nhan-Su\Bai_1\quanlynhansu\obj\Debug\quanlynhansu.exe
+C:\Users\Duy\Source\Repos\TTN-QL-Nhan-Su\Bai_1\quanlynhansu\obj\Debug\quanlynhansu.pdb

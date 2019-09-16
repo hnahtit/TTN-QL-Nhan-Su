@@ -21,7 +21,7 @@ namespace quanlynhansu
         private void button1_Click(object sender, EventArgs e)
         {
             SqlConnection conn = new SqlConnection(@"Data Source=DESKTOP-CE6UIQC\SQLEXPRESS;Initial Catalog=Bai1_baitapnhom;Integrated Security=True");
-            string sqlSelect = "Select * from BangDangNhap where TaiKhoan = N'" + textBox1.Text + "'and MatKhau = N'" + textBox2.Text+"'";
+            string sqlSelect = "Select * from QL_USER where name_account = N'" + textBox1.Text + "'and pass = N'" + textBox2.Text+"'";
             conn.Open();
             SqlCommand cmd = new SqlCommand(sqlSelect, conn);
             SqlDataReader reader = cmd.ExecuteReader();

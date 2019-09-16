@@ -95,7 +95,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "f1";
-            this.Text = "Form1";
+            this.Text = "Quản lý nhân viên";
             this.ResumeLayout(false);
             this.PerformLayout();
 
