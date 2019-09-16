@@ -1,6 +1,6 @@
 ﻿namespace quanlynhansu
 {
-    partial class f1
+    partial class Form1
     {
         /// <summary>
         /// Required designer variable.

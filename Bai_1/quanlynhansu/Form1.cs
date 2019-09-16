@@ -11,12 +11,14 @@ using System.Data.SqlClient;
 
 namespace quanlynhansu
 {
-    public partial class f1 : Form
+    public partial class Form1 : Form
     {
-        public f1()
+        public Form1()
         {
             InitializeComponent();
         }
+
+        public static string ID_User = "";
 
         private void button1_Click(object sender, EventArgs e)
         {

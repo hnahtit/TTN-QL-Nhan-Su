@@ -16,7 +16,7 @@ namespace quanlynhansu
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new f1());
+            Application.Run(new Form1());
         }
     }
 }

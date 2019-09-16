@@ -26,3 +26,4 @@ C:\Users\Duy\Source\Repos\TTN-QL-Nhan-Su\Bai_1\quanlynhansu\obj\Debug\quanlynhan
 C:\Users\Duy\Source\Repos\TTN-QL-Nhan-Su\Bai_1\quanlynhansu\obj\Debug\quanlynhansu.csproj.GenerateResource.Cache
 C:\Users\Duy\Source\Repos\TTN-QL-Nhan-Su\Bai_1\quanlynhansu\obj\Debug\quanlynhansu.exe
 C:\Users\Duy\Source\Repos\TTN-QL-Nhan-Su\Bai_1\quanlynhansu\obj\Debug\quanlynhansu.pdb
+C:\Users\Duy\Source\Repos\TTN-QL-Nhan-Su\Bai_1\quanlynhansu\obj\Debug\quanlynhansu.Form1.resources
