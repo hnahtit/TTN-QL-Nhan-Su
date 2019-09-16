@@ -30,7 +30,7 @@ namespace quanlynhansu
             try
             {
                 conn.Open();
-                SqlCommand cmd = new SqlCommand("SELECT * FROM dbo.QL_USER_PERMISION WHERE id_user_rel ='" + UID + "'", conn);
+                SqlCommand cmd = new SqlCommand("SELECT * FROM dbo.DN_NguoiDung_QuyenHan WHERE id_user_rel ='" + UID + "'", conn);
                 SqlDataAdapter da = new SqlDataAdapter(cmd);
                 DataTable dt = new DataTable();
                 da.Fill(dt);
@@ -66,7 +66,7 @@ namespace quanlynhansu
             try
             {
                 conn.Open();
-                SqlCommand cmd = new SqlCommand("SELECT * FROM dbo.QL_PERMISION_DETAIL WHERE id_per ='" + idper + "'", conn);
+                SqlCommand cmd = new SqlCommand("SELECT * FROM dbo.DN_QuyenHanChiTiet WHERE id_per ='" + idper + "'", conn);
                 SqlDataAdapter da = new SqlDataAdapter(cmd);
                 DataTable dt = new DataTable();
                 da.Fill(dt);
