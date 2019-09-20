@@ -1,5 +1,7 @@
-﻿CREATE DATABASE Bai1_baitapnhom
-
+﻿CREATE DATABASE Bai1_baitapnhom1
+go
+use Bai1_baitapnhom1
+go
 CREATE TABLE QL_PhongBan
 (
 	Id_PhongBan INT PRIMARY KEY,
