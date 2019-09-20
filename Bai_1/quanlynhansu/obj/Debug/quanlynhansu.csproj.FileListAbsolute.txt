@@ -37,3 +37,15 @@ C:\Users\Duy\Source\Repos\Bai_1\quanlynhansu\obj\Debug\quanlynhansu.Properties.R
 C:\Users\Duy\Source\Repos\Bai_1\quanlynhansu\obj\Debug\quanlynhansu.csproj.GenerateResource.Cache
 C:\Users\Duy\Source\Repos\Bai_1\quanlynhansu\obj\Debug\quanlynhansu.exe
 C:\Users\Duy\Source\Repos\Bai_1\quanlynhansu\obj\Debug\quanlynhansu.pdb
+E:\3-Thuc-tap-nhom\TTN-QL-Nhan-Su\Bai_1\quanlynhansu\bin\Debug\quanlynhansu.exe.config
+E:\3-Thuc-tap-nhom\TTN-QL-Nhan-Su\Bai_1\quanlynhansu\bin\Debug\quanlynhansu.exe
+E:\3-Thuc-tap-nhom\TTN-QL-Nhan-Su\Bai_1\quanlynhansu\bin\Debug\quanlynhansu.pdb
+E:\3-Thuc-tap-nhom\TTN-QL-Nhan-Su\Bai_1\quanlynhansu\obj\Debug\quanlynhansu.csprojAssemblyReference.cache
+E:\3-Thuc-tap-nhom\TTN-QL-Nhan-Su\Bai_1\quanlynhansu\obj\Debug\quanlynhansu.Form1.resources
+E:\3-Thuc-tap-nhom\TTN-QL-Nhan-Su\Bai_1\quanlynhansu\obj\Debug\quanlynhansu.Main.resources
+E:\3-Thuc-tap-nhom\TTN-QL-Nhan-Su\Bai_1\quanlynhansu\obj\Debug\quanlynhansu.Properties.Resources.resources
+E:\3-Thuc-tap-nhom\TTN-QL-Nhan-Su\Bai_1\quanlynhansu\obj\Debug\quanlynhansu.csproj.GenerateResource.cache
+E:\3-Thuc-tap-nhom\TTN-QL-Nhan-Su\Bai_1\quanlynhansu\obj\Debug\quanlynhansu.csproj.CoreCompileInputs.cache
+E:\3-Thuc-tap-nhom\TTN-QL-Nhan-Su\Bai_1\quanlynhansu\obj\Debug\quanlynhansu.exe
+E:\3-Thuc-tap-nhom\TTN-QL-Nhan-Su\Bai_1\quanlynhansu\obj\Debug\quanlynhansu.pdb
+E:\3-Thuc-tap-nhom\TTN-QL-Nhan-Su\Bai_1\quanlynhansu\obj\Debug\quanlynhansu.csprojResolveAssemblyReference.cache
